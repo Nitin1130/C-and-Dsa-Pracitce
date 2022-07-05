@@ -1,0 +1,14 @@
+# ninja log v5
+1	473	6787254186154790	CMakeFiles/TwoSums.dir/Solution1.cpp.obj	95e4bc24e117c738
+22	1583	6787254197280101	CMakeFiles/TwoSums.dir/main.cpp.obj	4cf5ac6fc6e2a6cd
+1585	1980	6787254201205834	TwoSums.exe	969c0bdc9a33567
+7	1563	6787257435870478	CMakeFiles/TwoSums.dir/main.cpp.obj	4cf5ac6fc6e2a6cd
+1564	1778	6787257437950862	TwoSums.exe	969c0bdc9a33567
+8	1866	6787258546154580	CMakeFiles/TwoSums.dir/main.cpp.obj	4cf5ac6fc6e2a6cd
+1867	2122	6787258548674791	TwoSums.exe	969c0bdc9a33567
+8	1531	6787258788906452	CMakeFiles/TwoSums.dir/main.cpp.obj	4cf5ac6fc6e2a6cd
+1532	1760	6787258791146638	TwoSums.exe	969c0bdc9a33567
+10	2233	6787259049785873	CMakeFiles/TwoSums.dir/main.cpp.obj	4cf5ac6fc6e2a6cd
+2234	2774	6787259055863525	TwoSums.exe	969c0bdc9a33567
+9	1569	6787259317835662	CMakeFiles/TwoSums.dir/main.cpp.obj	4cf5ac6fc6e2a6cd
+1570	1809	6787259320205855	TwoSums.exe	969c0bdc9a33567
